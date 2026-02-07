@@ -3,6 +3,9 @@
 ![streamlit2](https://github.com/user-attachments/assets/f4e2e000-4ce0-44ba-84ea-9bc2c7a0f8d9)
 ![streamlit3](https://github.com/user-attachments/assets/67a46322-96a8-4aa7-b075-325d1754a874)
 ![streamlit4](https://github.com/user-attachments/assets/c266381a-c03a-4c93-8f38-0aa12230c2a4)
+<img width="900" height="344" alt="mysql1" src="https://github.com/user-attachments/assets/d7c101f9-1a23-44dd-9654-f5a40b86ff57" />
+![mysql2](https://github.com/user-attachments/assets/4213c92e-bb49-4d6c-83bf-639a95cc9750)
+![mysql4](https://github.com/user-attachments/assets/c77c0ddb-d4f1-48e1-ba9c-2aa971d31f02)
 
 
 import streamlit as st
